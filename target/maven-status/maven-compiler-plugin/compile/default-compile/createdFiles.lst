@@ -1,0 +1,6 @@
+com\aws\model\MailRequest.class
+com\aws\AwsWorkshopApplication.class
+com\aws\model\msg\MailResponse.class
+com\aws\controller\Controller.class
+com\aws\model\msg\EntityResponse.class
+com\aws\service\MailService.class
